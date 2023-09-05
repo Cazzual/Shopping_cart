@@ -1,0 +1,6 @@
+Components : Product -> id,name,price
+Item : Product , quantity and price 
+Cart : Items ,  Total 
+
+
+// Basic Working : view product, add product and quantity, checkout 
